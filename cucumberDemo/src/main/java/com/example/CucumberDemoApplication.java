@@ -1,5 +1,6 @@
-package com.example.cucumberDemo;
+package com.example;
 
+import com.example.camelFileConcepts.FileDemoClass;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
